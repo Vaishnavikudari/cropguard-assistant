@@ -1,0 +1,8 @@
+flask>=3.0
+flask-cors>=4.0
+requests>=2.31
+Pillow>=10.0
+roboflow
+python-dotenv
+gunicorn
+waitress
